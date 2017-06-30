@@ -1,0 +1,145 @@
+  <!DOCTYPE html>
+  <html >
+  <head>
+    <meta charset="UTF-8">
+    <title>Pokémon Selector</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="shortcut icon" type="image/x-icon" href="Pokeball.png">
+    <link rel='stylesheet prefetch' href='https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css'>
+    <link rel="stylesheet" href="main.css">
+
+    
+    
+  </head>
+
+  <body>
+    <nav class="navbar navbar-inverse ">
+    <div class="container-fluid">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span> 
+        </button>  
+        <a href="#" class="navbar-brand">Pok&eacute;dex <small>1ra generaci&oacute;n</small></a>
+      </div>
+      
+      <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+        <ul class="nav navbar-nav">
+          <li class="active"><a href="#">Pok&eacute;dex</a></li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+  <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <div class="input-group input-group-lg">
+            <span class="input-group-addon" id="sizing-addon1"><span class="glyphicon glyphicon-search" aria-hidden="true"></span></span>
+            <input type="text" id="filtrar" class="form-control" placeholder="Pok&eacute;mon, por ejemplo: Pikachu" aria-describedby="sizing-addon1">
+          </div>
+        </div>
+    </div>
+  </div>
+
+  <div class="container filtros">
+      <div class="row">
+        <div class="col-md-12">
+          <small>Filtrar por</small>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-6">
+          <div class="dropdown">
+            <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+              Tipo...
+              <span class="caret"></span>
+            </button>
+            <ul class="dropdown-menu" aria-labelledby="dropdownMenu1" id="tipo">
+              
+            </ul>
+          </div>
+        </div>
+
+        <div class="col-md-6">
+          <div class="dropdown">
+            <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+              Debilidad...
+              <span class="caret"></span>
+            </button>
+            <ul class="dropdown-menu" aria-labelledby="dropdownMenu1" id="debilidad">
+          
+            </ul>
+          </div>
+        </div>
+      </div>
+  </div>
+
+  <div class="container" id="pokemon-container">
+
+    
+  </div>
+
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script>
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js'></script>
+  <script type="text/javascript" src="pokedex.js"></script>
+
+  <div class="modal fade bs-example-modal-md" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel">
+    <div class="modal-dialog modal-md" role="document">
+      <div class="modal-content">
+      <div class="container-fluid text-center">
+          <div class="row">
+            <div class="col-md-6">
+              <h3 class="nombre_modal"></h3>
+            </div>
+            <div class="col-md-6">
+              <h4>Tipo </h4>
+              <div class="tipos_modal"></div>
+            </div>
+            <div class="row">
+              <div class="col-md-12">
+                <img src="" alt="" class="img-responsive center-block img_modal">
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-md-12">
+                <h4>Perfil</h4>
+                <div class="perfil_modal"></div>
+              </div>
+            </div>
+            <div class="row">
+             <div class="col-md-12">
+              <h4>Debilidades</h4>
+              <div class="debilidades_modal"></div>
+             </div> 
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-md-6">
+              <h4>Evoluciones anteriores</h4>
+              <div class="evoluciones_anteriores_modal">
+                
+              </div>
+              </div>
+              <div class="col-md-6">
+              <h4>Evoluciones siguientes</h4>
+              <div class="evoluciones_siguientes_modal">
+                
+              </div>
+              </div>
+            </div>
+            <div class="modal-footer">
+          <button type="button" class="btn btn-default" data-dismiss="modal">Cerrar</button>
+          <button type="button" class="btn btn-primary" id="atrapalo">Atr&aacute;palo!</button>
+        </div>
+      </div>
+    </div>
+        
+    </div>
+    
+  </div>
+
+  </body>
+  </html>
