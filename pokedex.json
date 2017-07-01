@@ -5,7 +5,7 @@
     "name": "Bulbasaur",
     "img": "http://www.serebii.net/pokemongo/pokemon/001.png",
     "type": [
-      "Pasto",
+      "Hierba",
       "Veneno"
     ],
     "height": "0.71 m",
@@ -36,7 +36,7 @@
     "name": "Ivysaur",
     "img": "http://www.serebii.net/pokemongo/pokemon/002.png",
     "type": [
-      "Pasto",
+      "Hierba",
       "Veneno"
     ],
     "height": "0.99 m",
@@ -71,7 +71,7 @@
     "name": "Venusaur",
     "img": "http://www.serebii.net/pokemongo/pokemon/003.png",
     "type": [
-      "Pasto",
+      "Hierba",
       "Veneno"
     ],
     "height": "2.01 m",
@@ -113,7 +113,7 @@
     "spawn_time": "08:45",
     "multipliers": [1.65],
     "weaknesses": [
-      "Acuatico",
+      "Agua",
       "Tierra",
       "Roca"
     ],
@@ -142,7 +142,7 @@
     "spawn_time": "19:00",
     "multipliers": [1.79],
     "weaknesses": [
-      "Acuatico",
+      "Agua",
       "Tierra",
       "Roca"
     ],
@@ -172,7 +172,7 @@
     "spawn_time": "13:34",
     "multipliers": null,
     "weaknesses": [
-      "Acuatico",
+      "Agua",
       "Electrico",
       "Roca"
     ],
@@ -189,7 +189,7 @@
     "name": "Squirtle",
     "img": "http://www.serebii.net/pokemongo/pokemon/007.png",
     "type": [
-      "Acuatico"
+      "Agua"
     ],
     "height": "0.51 m",
     "weight": "9.0 kg",
@@ -202,7 +202,7 @@
     "multipliers": [2.1],
     "weaknesses": [
       "Electrico",
-      "Pasto"
+      "Hierba"
     ],
     "next_evolution": [{
       "num": "008",
@@ -217,7 +217,7 @@
     "name": "Wartortle",
     "img": "http://www.serebii.net/pokemongo/pokemon/008.png",
     "type": [
-      "Acuatico"
+      "Agua"
     ],
     "height": "0.99 m",
     "weight": "22.5 kg",
@@ -230,7 +230,7 @@
     "multipliers": [1.4],
     "weaknesses": [
       "Electrico",
-      "Pasto"
+      "Hierba"
     ],
     "prev_evolution": [{
       "num": "007",
@@ -246,7 +246,7 @@
     "name": "Blastoise",
     "img": "http://www.serebii.net/pokemongo/pokemon/009.png",
     "type": [
-      "Acuatico"
+      "Agua"
     ],
     "height": "1.60 m",
     "weight": "85.5 kg",
@@ -258,7 +258,7 @@
     "multipliers": null,
     "weaknesses": [
       "Electrico",
-      "Pasto"
+      "Hierba"
     ],
     "prev_evolution": [{
       "num": "007",
@@ -770,8 +770,8 @@
     "spawn_time": "01:58",
     "multipliers": [2.45],
     "weaknesses": [
-      "Acuatico",
-      "Pasto",
+      "Agua",
+      "Hierba",
       "Hielo"
     ],
     "next_evolution": [{
@@ -795,8 +795,8 @@
     "spawn_time": "12:34",
     "multipliers": null,
     "weaknesses": [
-      "Acuatico",
-      "Pasto",
+      "Agua",
+      "Hierba",
       "Hielo"
     ],
     "prev_evolution": [{
@@ -884,7 +884,7 @@
     "spawn_time": "12:35",
     "multipliers": null,
     "weaknesses": [
-      "Acuatico",
+      "Agua",
       "Hielo",
       "Tierra",
       "Psiquico"
@@ -974,7 +974,7 @@
     "spawn_time": "12:16",
     "multipliers": null,
     "weaknesses": [
-      "Acuatico",
+      "Agua",
       "Hielo",
       "Tierra",
       "Psiquico"
@@ -1057,7 +1057,7 @@
       2.81
     ],
     "weaknesses": [
-      "Acuatico",
+      "Agua",
       "Tierra",
       "Roca"
     ],
@@ -1082,7 +1082,7 @@
     "spawn_time": "01:32",
     "multipliers": null,
     "weaknesses": [
-      "Acuatico",
+      "Agua",
       "Tierra",
       "Roca"
     ],
@@ -1201,7 +1201,7 @@
     "name": "Oddish",
     "img": "http://www.serebii.net/pokemongo/pokemon/043.png",
     "type": [
-      "Pasto",
+      "Hierba",
       "Veneno"
     ],
     "height": "0.51 m",
@@ -1232,7 +1232,7 @@
     "name": "Gloom",
     "img": "http://www.serebii.net/pokemongo/pokemon/044.png",
     "type": [
-      "Pasto",
+      "Hierba",
       "Veneno"
     ],
     "height": "0.79 m",
@@ -1264,7 +1264,7 @@
     "name": "Vileplume",
     "img": "http://www.serebii.net/pokemongo/pokemon/045.png",
     "type": [
-      "Pasto",
+      "Hierba",
       "Veneno"
     ],
     "height": "1.19 m",
@@ -1295,7 +1295,7 @@
     "img": "http://www.serebii.net/pokemongo/pokemon/046.png",
     "type": [
       "Bicho",
-      "Pasto"
+      "Hierba"
     ],
     "height": "0.30 m",
     "weight": "5.4 kg",
@@ -1325,7 +1325,7 @@
     "img": "http://www.serebii.net/pokemongo/pokemon/047.png",
     "type": [
       "Bicho",
-      "Pasto"
+      "Hierba"
     ],
     "height": "0.99 m",
     "weight": "29.5 kg",
@@ -1423,8 +1423,8 @@
     "spawn_time": "02:22",
     "multipliers": [2.69],
     "weaknesses": [
-      "Acuatico",
-      "Pasto",
+      "Agua",
+      "Hierba",
       "Hielo"
     ],
     "next_evolution": [{
@@ -1448,8 +1448,8 @@
     "spawn_time": "12:37",
     "multipliers": null,
     "weaknesses": [
-      "Acuatico",
-      "Pasto",
+      "Agua",
+      "Hierba",
       "Hielo"
     ],
     "prev_evolution": [{
@@ -1509,7 +1509,7 @@
     "name": "Psyduck",
     "img": "http://www.serebii.net/pokemongo/pokemon/054.png",
     "type": [
-      "Acuatico"
+      "Agua"
     ],
     "height": "0.79 m",
     "weight": "19.6 kg",
@@ -1522,7 +1522,7 @@
     "multipliers": [2.27],
     "weaknesses": [
       "Electrico",
-      "Pasto"
+      "Hierba"
     ],
     "next_evolution": [{
       "num": "055",
@@ -1534,7 +1534,7 @@
     "name": "Golduck",
     "img": "http://www.serebii.net/pokemongo/pokemon/055.png",
     "type": [
-      "Acuatico"
+      "Agua"
     ],
     "height": "1.70 m",
     "weight": "76.6 kg",
@@ -1546,7 +1546,7 @@
     "multipliers": null,
     "weaknesses": [
       "Electrico",
-      "Pasto"
+      "Hierba"
     ],
     "prev_evolution": [{
       "num": "054",
@@ -1627,7 +1627,7 @@
       2.36
     ],
     "weaknesses": [
-      "Acuatico",
+      "Agua",
       "Tierra",
       "Roca"
     ],
@@ -1652,7 +1652,7 @@
     "spawn_time": "03:11",
     "multipliers": null,
     "weaknesses": [
-      "Acuatico",
+      "Agua",
       "Tierra",
       "Roca"
     ],
@@ -1666,7 +1666,7 @@
     "name": "Poliwag",
     "img": "http://www.serebii.net/pokemongo/pokemon/060.png",
     "type": [
-      "Acuatico"
+      "Agua"
     ],
     "height": "0.61 m",
     "weight": "12.4 kg",
@@ -1682,7 +1682,7 @@
     ],
     "weaknesses": [
       "Electrico",
-      "Pasto"
+      "Hierba"
     ],
     "next_evolution": [{
       "num": "061",
@@ -1697,7 +1697,7 @@
     "name": "Poliwhirl",
     "img": "http://www.serebii.net/pokemongo/pokemon/061.png",
     "type": [
-      "Acuatico"
+      "Agua"
     ],
     "height": "0.99 m",
     "weight": "20.0 kg",
@@ -1710,7 +1710,7 @@
     "multipliers": [1.95],
     "weaknesses": [
       "Electrico",
-      "Pasto"
+      "Hierba"
     ],
     "prev_evolution": [{
       "num": "060",
@@ -1726,7 +1726,7 @@
     "name": "Poliwrath",
     "img": "http://www.serebii.net/pokemongo/pokemon/062.png",
     "type": [
-      "Acuatico",
+      "Agua",
       "Pelea"
     ],
     "height": "1.30 m",
@@ -1739,7 +1739,7 @@
     "multipliers": null,
     "weaknesses": [
       "Electrico",
-      "Pasto",
+      "Hierba",
       "Volador",
       "Psiquico",
       "Fairy"
@@ -1937,7 +1937,7 @@
     "name": "Bellsprout",
     "img": "http://www.serebii.net/pokemongo/pokemon/069.png",
     "type": [
-      "Pasto",
+      "Hierba",
       "Veneno"
     ],
     "height": "0.71 m",
@@ -1968,7 +1968,7 @@
     "name": "Weepinbell",
     "img": "http://www.serebii.net/pokemongo/pokemon/070.png",
     "type": [
-      "Pasto",
+      "Hierba",
       "Veneno"
     ],
     "height": "0.99 m",
@@ -2000,7 +2000,7 @@
     "name": "Victreebel",
     "img": "http://www.serebii.net/pokemongo/pokemon/071.png",
     "type": [
-      "Pasto",
+      "Hierba",
       "Veneno"
     ],
     "height": "1.70 m",
@@ -2030,7 +2030,7 @@
     "name": "Tentacool",
     "img": "http://www.serebii.net/pokemongo/pokemon/072.png",
     "type": [
-      "Acuatico",
+      "Agua",
       "Veneno"
     ],
     "height": "0.89 m",
@@ -2057,7 +2057,7 @@
     "name": "Tentacruel",
     "img": "http://www.serebii.net/pokemongo/pokemon/073.png",
     "type": [
-      "Acuatico",
+      "Agua",
       "Veneno"
     ],
     "height": "1.60 m",
@@ -2099,8 +2099,8 @@
       1.76
     ],
     "weaknesses": [
-      "Acuatico",
-      "Pasto",
+      "Agua",
+      "Hierba",
       "Hielo",
       "Pelea",
       "Tierra",
@@ -2135,8 +2135,8 @@
       1.72
     ],
     "weaknesses": [
-      "Acuatico",
-      "Pasto",
+      "Agua",
+      "Hierba",
       "Hielo",
       "Pelea",
       "Tierra",
@@ -2168,8 +2168,8 @@
     "spawn_time": "12:16",
     "multipliers": null,
     "weaknesses": [
-      "Acuatico",
-      "Pasto",
+      "Agua",
+      "Hierba",
       "Hielo",
       "Pelea",
       "Tierra",
@@ -2203,7 +2203,7 @@
       1.5
     ],
     "weaknesses": [
-      "Acuatico",
+      "Agua",
       "Tierra",
       "Roca"
     ],
@@ -2228,7 +2228,7 @@
     "spawn_time": "04:00",
     "multipliers": null,
     "weaknesses": [
-      "Acuatico",
+      "Agua",
       "Tierra",
       "Roca"
     ],
@@ -2242,7 +2242,7 @@
     "name": "Slowpoke",
     "img": "http://www.serebii.net/pokemongo/pokemon/079.png",
     "type": [
-      "Acuatico",
+      "Agua",
       "Psiquico"
     ],
     "height": "1.19 m",
@@ -2256,7 +2256,7 @@
     "multipliers": [2.21],
     "weaknesses": [
       "Electrico",
-      "Pasto",
+      "Hierba",
       "Bicho",
       "Fantasma",
       "Siniestro"
@@ -2271,7 +2271,7 @@
     "name": "Slowbro",
     "img": "http://www.serebii.net/pokemongo/pokemon/080.png",
     "type": [
-      "Acuatico",
+      "Agua",
       "Psiquico"
     ],
     "height": "1.60 m",
@@ -2284,7 +2284,7 @@
     "multipliers": null,
     "weaknesses": [
       "Electrico",
-      "Pasto",
+      "Hierba",
       "Bicho",
       "Fantasma",
       "Siniestro"
@@ -2315,7 +2315,7 @@
     ],
     "weaknesses": [
       "Fuego",
-      "Acuatico",
+      "Agua",
       "Tierra"
     ],
     "next_evolution": [{
@@ -2340,7 +2340,7 @@
     "multipliers": null,
     "weaknesses": [
       "Fuego",
-      "Acuatico",
+      "Agua",
       "Tierra"
     ],
     "prev_evolution": [{
@@ -2428,7 +2428,7 @@
     "name": "Seel",
     "img": "http://www.serebii.net/pokemongo/pokemon/086.png",
     "type": [
-      "Acuatico"
+      "Agua"
     ],
     "height": "1.09 m",
     "weight": "90.0 kg",
@@ -2444,7 +2444,7 @@
     ],
     "weaknesses": [
       "Electrico",
-      "Pasto"
+      "Hierba"
     ],
     "next_evolution": [{
       "num": "087",
@@ -2456,7 +2456,7 @@
     "name": "Dewgong",
     "img": "http://www.serebii.net/pokemongo/pokemon/087.png",
     "type": [
-      "Acuatico",
+      "Agua",
       "Hielo"
     ],
     "height": "1.70 m",
@@ -2469,7 +2469,7 @@
     "multipliers": null,
     "weaknesses": [
       "Electrico",
-      "Pasto",
+      "Hierba",
       "Pelea",
       "Roca"
     ],
@@ -2532,7 +2532,7 @@
     "name": "Shellder",
     "img": "http://www.serebii.net/pokemongo/pokemon/090.png",
     "type": [
-      "Acuatico"
+      "Agua"
     ],
     "height": "0.30 m",
     "weight": "4.0 kg",
@@ -2545,7 +2545,7 @@
     "multipliers": [2.65],
     "weaknesses": [
       "Electrico",
-      "Pasto"
+      "Hierba"
     ],
     "next_evolution": [{
       "num": "091",
@@ -2557,7 +2557,7 @@
     "name": "Cloyster",
     "img": "http://www.serebii.net/pokemongo/pokemon/091.png",
     "type": [
-      "Acuatico",
+      "Agua",
       "Hielo"
     ],
     "height": "1.50 m",
@@ -2570,7 +2570,7 @@
     "multipliers": null,
     "weaknesses": [
       "Electrico",
-      "Pasto",
+      "Hierba",
       "Pelea",
       "Roca"
     ],
@@ -2692,8 +2692,8 @@
     "spawn_time": "01:18",
     "multipliers": null,
     "weaknesses": [
-      "Acuatico",
-      "Pasto",
+      "Agua",
+      "Hierba",
       "Hielo",
       "Pelea",
       "Tierra",
@@ -2759,7 +2759,7 @@
     "name": "Krabby",
     "img": "http://www.serebii.net/pokemongo/pokemon/098.png",
     "type": [
-      "Acuatico"
+      "Agua"
     ],
     "height": "0.41 m",
     "weight": "6.5 kg",
@@ -2775,7 +2775,7 @@
     ],
     "weaknesses": [
       "Electrico",
-      "Pasto"
+      "Hierba"
     ],
     "next_evolution": [{
       "num": "099",
@@ -2787,7 +2787,7 @@
     "name": "Kingler",
     "img": "http://www.serebii.net/pokemongo/pokemon/099.png",
     "type": [
-      "Acuatico"
+      "Agua"
     ],
     "height": "1.30 m",
     "weight": "60.0 kg",
@@ -2799,7 +2799,7 @@
     "multipliers": null,
     "weaknesses": [
       "Electrico",
-      "Pasto"
+      "Hierba"
     ],
     "prev_evolution": [{
       "num": "098",
@@ -2861,7 +2861,7 @@
     "name": "Exeggcute",
     "img": "http://www.serebii.net/pokemongo/pokemon/102.png",
     "type": [
-      "Pasto",
+      "Hierba",
       "Psiquico"
     ],
     "height": "0.41 m",
@@ -2895,7 +2895,7 @@
     "name": "Exeggutor",
     "img": "http://www.serebii.net/pokemongo/pokemon/103.png",
     "type": [
-      "Pasto",
+      "Hierba",
       "Psiquico"
     ],
     "height": "2.01 m",
@@ -2937,8 +2937,8 @@
     "spawn_time": "01:51",
     "multipliers": [1.67],
     "weaknesses": [
-      "Acuatico",
-      "Pasto",
+      "Agua",
+      "Hierba",
       "Hielo"
     ],
     "next_evolution": [{
@@ -2962,8 +2962,8 @@
     "spawn_time": "03:59",
     "multipliers": null,
     "weaknesses": [
-      "Acuatico",
-      "Pasto",
+      "Agua",
+      "Hierba",
       "Hielo"
     ],
     "prev_evolution": [{
@@ -3099,8 +3099,8 @@
     "spawn_time": "03:21",
     "multipliers": [1.91],
     "weaknesses": [
-      "Acuatico",
-      "Pasto",
+      "Agua",
+      "Hierba",
       "Hielo",
       "Pelea",
       "Tierra",
@@ -3128,8 +3128,8 @@
     "spawn_time": "05:50",
     "multipliers": null,
     "weaknesses": [
-      "Acuatico",
-      "Pasto",
+      "Agua",
+      "Hierba",
       "Hielo",
       "Pelea",
       "Tierra",
@@ -3164,7 +3164,7 @@
     "name": "Tangela",
     "img": "http://www.serebii.net/pokemongo/pokemon/114.png",
     "type": [
-      "Pasto"
+      "Hierba"
     ],
     "height": "0.99 m",
     "weight": "35.0 kg",
@@ -3206,7 +3206,7 @@
     "name": "Horsea",
     "img": "http://www.serebii.net/pokemongo/pokemon/116.png",
     "type": [
-      "Acuatico"
+      "Agua"
     ],
     "height": "0.41 m",
     "weight": "8.0 kg",
@@ -3219,7 +3219,7 @@
     "multipliers": [2.23],
     "weaknesses": [
       "Electrico",
-      "Pasto"
+      "Hierba"
     ],
     "next_evolution": [{
       "num": "117",
@@ -3231,7 +3231,7 @@
     "name": "Seadra",
     "img": "http://www.serebii.net/pokemongo/pokemon/117.png",
     "type": [
-      "Acuatico"
+      "Agua"
     ],
     "height": "1.19 m",
     "weight": "25.0 kg",
@@ -3243,7 +3243,7 @@
     "multipliers": null,
     "weaknesses": [
       "Electrico",
-      "Pasto"
+      "Hierba"
     ],
     "prev_evolution": [{
       "num": "116",
@@ -3255,7 +3255,7 @@
     "name": "Goldeen",
     "img": "http://www.serebii.net/pokemongo/pokemon/118.png",
     "type": [
-      "Acuatico"
+      "Agua"
     ],
     "height": "0.61 m",
     "weight": "15.0 kg",
@@ -3271,7 +3271,7 @@
     ],
     "weaknesses": [
       "Electrico",
-      "Pasto"
+      "Hierba"
     ],
     "next_evolution": [{
       "num": "119",
@@ -3283,7 +3283,7 @@
     "name": "Seaking",
     "img": "http://www.serebii.net/pokemongo/pokemon/119.png",
     "type": [
-      "Acuatico"
+      "Agua"
     ],
     "height": "1.30 m",
     "weight": "39.0 kg",
@@ -3295,7 +3295,7 @@
     "multipliers": null,
     "weaknesses": [
       "Electrico",
-      "Pasto"
+      "Hierba"
     ],
     "prev_evolution": [{
       "num": "118",
@@ -3307,7 +3307,7 @@
     "name": "Staryu",
     "img": "http://www.serebii.net/pokemongo/pokemon/120.png",
     "type": [
-      "Acuatico"
+      "Agua"
     ],
     "height": "0.79 m",
     "weight": "34.5 kg",
@@ -3323,7 +3323,7 @@
     ],
     "weaknesses": [
       "Electrico",
-      "Pasto"
+      "Hierba"
     ],
     "next_evolution": [{
       "num": "121",
@@ -3335,7 +3335,7 @@
     "name": "Starmie",
     "img": "http://www.serebii.net/pokemongo/pokemon/121.png",
     "type": [
-      "Acuatico",
+      "Agua",
       "Psiquico"
     ],
     "height": "1.09 m",
@@ -3348,7 +3348,7 @@
     "multipliers": null,
     "weaknesses": [
       "Electrico",
-      "Pasto",
+      "Hierba",
       "Bicho",
       "Fantasma",
       "Siniestro"
@@ -3463,7 +3463,7 @@
     "spawn_time": "20:36",
     "multipliers": null,
     "weaknesses": [
-      "Acuatico",
+      "Agua",
       "Tierra",
       "Roca"
     ]
@@ -3513,7 +3513,7 @@
     "name": "Magikarp",
     "img": "http://www.serebii.net/pokemongo/pokemon/129.png",
     "type": [
-      "Acuatico"
+      "Agua"
     ],
     "height": "0.89 m",
     "weight": "10.0 kg",
@@ -3529,7 +3529,7 @@
     ],
     "weaknesses": [
       "Electrico",
-      "Pasto"
+      "Hierba"
     ],
     "next_evolution": [{
       "num": "130",
@@ -3541,7 +3541,7 @@
     "name": "Gyarados",
     "img": "http://www.serebii.net/pokemongo/pokemon/130.png",
     "type": [
-      "Acuatico",
+      "Agua",
       "Volador"
     ],
     "height": "6.50 m",
@@ -3566,7 +3566,7 @@
     "name": "Lapras",
     "img": "http://www.serebii.net/pokemongo/pokemon/131.png",
     "type": [
-      "Acuatico",
+      "Agua",
       "Hielo"
     ],
     "height": "2.49 m",
@@ -3579,7 +3579,7 @@
     "multipliers": null,
     "weaknesses": [
       "Electrico",
-      "Pasto",
+      "Hierba",
       "Pelea",
       "Roca"
     ]
@@ -3641,7 +3641,7 @@
     "name": "Vaporeon",
     "img": "http://www.serebii.net/pokemongo/pokemon/134.png",
     "type": [
-      "Acuatico"
+      "Agua"
     ],
     "height": "0.99 m",
     "weight": "29.0 kg",
@@ -3653,7 +3653,7 @@
     "multipliers": null,
     "weaknesses": [
       "Electrico",
-      "Pasto"
+      "Hierba"
     ],
     "prev_evolution": [{
       "num": "133",
@@ -3699,7 +3699,7 @@
     "spawn_time": "07:02",
     "multipliers": null,
     "weaknesses": [
-      "Acuatico",
+      "Agua",
       "Tierra",
       "Roca"
     ],
@@ -3733,7 +3733,7 @@
     "img": "http://www.serebii.net/pokemongo/pokemon/138.png",
     "type": [
       "Roca",
-      "Acuatico"
+      "Agua"
     ],
     "height": "0.41 m",
     "weight": "7.5 kg",
@@ -3746,7 +3746,7 @@
     "multipliers": [2.12],
     "weaknesses": [
       "Electrico",
-      "Pasto",
+      "Hierba",
       "Pelea",
       "Tierra"
     ],
@@ -3761,7 +3761,7 @@
     "img": "http://www.serebii.net/pokemongo/pokemon/139.png",
     "type": [
       "Roca",
-      "Acuatico"
+      "Agua"
     ],
     "height": "0.99 m",
     "weight": "35.0 kg",
@@ -3773,7 +3773,7 @@
     "multipliers": null,
     "weaknesses": [
       "Electrico",
-      "Pasto",
+      "Hierba",
       "Pelea",
       "Tierra"
     ],
@@ -3788,7 +3788,7 @@
     "img": "http://www.serebii.net/pokemongo/pokemon/140.png",
     "type": [
       "Roca",
-      "Acuatico"
+      "Agua"
     ],
     "height": "0.51 m",
     "weight": "11.5 kg",
@@ -3804,7 +3804,7 @@
     ],
     "weaknesses": [
       "Electrico",
-      "Pasto",
+      "Hierba",
       "Pelea",
       "Tierra"
     ],
@@ -3819,7 +3819,7 @@
     "img": "http://www.serebii.net/pokemongo/pokemon/141.png",
     "type": [
       "Roca",
-      "Acuatico"
+      "Agua"
     ],
     "height": "1.30 m",
     "weight": "40.5 kg",
@@ -3831,7 +3831,7 @@
     "multipliers": null,
     "weaknesses": [
       "Electrico",
-      "Pasto",
+      "Hierba",
       "Pelea",
       "Tierra"
     ],
@@ -3857,7 +3857,7 @@
     "spawn_time": "23:40",
     "multipliers": null,
     "weaknesses": [
-      "Acuatico",
+      "Agua",
       "Electrico",
       "Hielo",
       "Roca",
@@ -3944,7 +3944,7 @@
     "spawn_time": "N/A",
     "multipliers": null,
     "weaknesses": [
-      "Acuatico",
+      "Agua",
       "Electrico",
       "Roca"
     ]

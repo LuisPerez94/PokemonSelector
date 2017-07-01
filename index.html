@@ -1,20 +1,17 @@
-  <!DOCTYPE html>
-  <html >
-  <head>
-    <meta charset="UTF-8">
-    <title>Pokémon Selector</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Pokémon Selector</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <link rel="shortcut icon" type="image/x-icon" href="Pokeball.png">
-    <link rel='stylesheet prefetch' href='https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css'>
-    <link rel="stylesheet" href="main.css">
+  <link rel="shortcut icon" type="image/x-icon" href="Pokeball.png">
+  <link rel='stylesheet prefetch' href='https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css'>
+  <link rel="stylesheet" href="main.css">
+</head>
 
-    
-    
-  </head>
-
-  <body>
-    <nav class="navbar navbar-inverse ">
+<body>
+  <nav class="navbar navbar-inverse ">
     <div class="container-fluid">
       <div class="navbar-header">
         <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
@@ -33,6 +30,8 @@
       </div>
     </div>
   </nav>
+
+
   <div class="container">
       <div class="row">
         <div class="col-md-12">
@@ -50,8 +49,9 @@
           <small>Filtrar por</small>
         </div>
       </div>
+
       <div class="row">
-        <div class="col-md-6">
+        <div class="col-md-2 col-sm-4 col-xs-4">
           <div class="dropdown">
             <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
               Tipo...
@@ -63,7 +63,7 @@
           </div>
         </div>
 
-        <div class="col-md-6">
+        <div class="col-md-2 col-sm-4 col-xs-4">
           <div class="dropdown">
             <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
               Debilidad...
@@ -71,6 +71,19 @@
             </button>
             <ul class="dropdown-menu" aria-labelledby="dropdownMenu1" id="debilidad">
           
+            </ul>
+          </div>
+        </div>
+
+        <div class="col-md-2 col-sm-4 col-xs-4">
+          <div class="dropdown">
+            <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+              Por ...
+              <span class="caret"></span>
+            </button>
+            <ul class="dropdown-menu" aria-labelledby="dropdownMenu1" id="debilidad">
+              <li><a href="#" id="todos">Todos</a></li>
+              <li><a href="#" id="atrapados">Atrapados</a></li>
             </ul>
           </div>
         </div>
@@ -82,9 +95,7 @@
     
   </div>
 
-  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script>
-  <script src='https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js'></script>
-  <script type="text/javascript" src="pokedex.js"></script>
+  
 
   <div class="modal fade bs-example-modal-md" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel">
     <div class="modal-dialog modal-md" role="document">
@@ -141,5 +152,8 @@
     
   </div>
 
-  </body>
-  </html>
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script>
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js'></script>
+  <script type="text/javascript" src="pokedex.js"></script>
+</body>
+</html>
